@@ -4,8 +4,7 @@ Environment: The algorithm is test on Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz wi
 
 Requirement: Matlab 2013a or later with installed Image Processing Toolbox.
 
-Setup:  Biuld up the code on https://github.com/MingMingCheng/CmCode, put Cmlib.lib in main folder.
-        Run "main.m" . Several settings can be tweaked including reference index, handheld or static camera mode, alignment accuracy, etc.
+Setup:  Run "main.m" . Several settings can be tweaked including reference index, handheld or static camera mode, alignment accuracy, etc.
 
 If you have any comments, suggestions, or questions, please contact Zijie Wang (esnil@fuji.waseda.jp).
 
