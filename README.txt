@@ -1,6 +1,6 @@
 Description: Source code and two datasets in "imgdata" folder, selected from Gallo's [1] and Sen's [2] work.
 
-Environment: The algorithm is test on Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz with 8.0 GB DDR3 RAM.;
+Environment: The algorithm is test on Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz with 8.0 GB DDR3 RAM.
 
 Requirement: Matlab 2013a or later with installed Image Processing Toolbox.
 
