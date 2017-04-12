@@ -1,0 +1,27 @@
+-EstimateCRF.m 
+Calculate the mapping from pixel value to radiance by Debevec's method.
+
+-iCRF.m
+Calculate the pixel value using estimated CRF and exposure.
+
+-GhostFreeImageSynthesis.m     
+Mainflow of ghost removal.
+
+-MyObjectDetectionInversesal.m
+-MyObjectDetectionsal.m
+Calculate the bilateral difference between the kth image and reference, and detect the motion areas. 
+
+-MaskExtension.m
+Extend motion areas by Zhang's method.
+
+-exposure_fusion.m
+Exposure fusion with fusion masks.
+
+-GraphSeg folder
+Coherence filter for smoothing.
+
+-IAT folder
+ECC alignment.
+
+-gco folder
+Energy minimization with Graphcuts by Boykov's method.
